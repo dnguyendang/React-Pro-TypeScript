@@ -1,9 +1,9 @@
-import nestImg from '../assets/project/nestjs.png';
-import nextjsImg from '../assets/project/nextjs.jpeg';
-import reactNativeImg from '../assets/project/react-native.png';
-import reactUltimateImg from '../assets/project/react-ultimate.png';
-import springMvcImg from '../assets/project/spring-mvc.png';
-import springRestImg from '../assets/project/spring-rest.png';
+import nestImg from 'assets/project/nestjs.png';
+import nextjsImg from 'assets/project/nextjs.jpeg';
+import reactNativeImg from 'assets/project/react-native.png';
+import reactUltimateImg from 'assets/project/react-ultimate.png';
+import springMvcImg from 'assets/project/spring-mvc.png';
+import springRestImg from 'assets/project/spring-rest.png';
 
 export const APP_DATA = {
     YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
@@ -65,26 +65,26 @@ export const PROJECTS = [
     {
         id: 1,
         imgPath: reactNativeImg,
-        title: "React Native Basic",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html"
+        title: "React-Pro-TypeScript",
+        description: "React-Pro-TypeScript",
+        githubLink: "https://github.com/dnguyendang/React-Pro-TypeScript",
+        demoLink: "https://github.com/dnguyendang/React-Pro-TypeScript"
     },
     {
         id: 2,
         imgPath: springRestImg,
-        title: "Java Spring REST",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html"
+        title: "React-State-Manager",
+        description: "React-State-Manager",
+        githubLink: "https://github.com/dnguyendang/React-State-Manager",
+        demoLink: "https://github.com/dnguyendang/React-State-Manager"
     },
     {
         id: 3,
         imgPath: springMvcImg,
-        title: "Java Spring MVC",
-        description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        githubLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html",
-        demoLink: "https://hoidanit.vn/khoa-hoc/java-spring-mvc-ultimate-for-beginners-65ce0b770c05f4450fbd86ac.html"
+        title: "React-Ultimate",
+        description: "React-Ultimate",
+        githubLink: "https://github.com/dnguyendang/React-Ultimate",
+        demoLink: "https://github.com/dnguyendang/React-Ultimate"
     },
     {
         id: 4,
